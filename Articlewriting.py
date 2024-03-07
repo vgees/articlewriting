@@ -3,7 +3,7 @@ import streamlit as st
 
 clt = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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"
+    api_key="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"
 )
 
 def main():
